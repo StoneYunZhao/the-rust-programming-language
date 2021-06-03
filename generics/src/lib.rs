@@ -1,4 +1,5 @@
 mod traits;
+mod lifetime;
 
 #[cfg(test)]
 mod tests {
